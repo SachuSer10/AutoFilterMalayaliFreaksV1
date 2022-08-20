@@ -17,7 +17,7 @@ class script(object):
 - Source - https://github.com/EvamariaTG/EvaMaria  
 
 <b>DEVS:</b>
-- <a href=https://t.me/TeamEvamaria>Team Eva Maria</a>"""
+- <a href=https://t.me/MichealAnjoottiTG>🇮🇳 𝐌𝐢𝐜𝐡𝐚𝐞𝐥 𝐀𝐧𝐣𝐨𝐨𝐭𝐭𝐢 𝐓𝐆</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
