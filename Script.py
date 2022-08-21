@@ -13,9 +13,10 @@ class script(object):
 
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
+Source Not Available 
+Join And Support Our Main Channel
 
 
-- Base Repo - https://github.com/EvamariaTG/EvaMaria  
 
 <b>MAIN CHANNEL:</b>
 
