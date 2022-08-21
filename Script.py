@@ -21,7 +21,7 @@ class script(object):
 
 - <a href=https://t.me/MovieFlix_TG>MOVIEFLIX</a>"""
 
-    MANUELFILTER_TXT = """Help: <b>Filters</b>
+    MANUELFILTER_TXT = """Help: <b>Filters</b>"""
 
 
 
