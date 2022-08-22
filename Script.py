@@ -4,14 +4,14 @@ class script(object):
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ ᴍy ɴᴀᴍᴇ: {}
-✯ ᴅᴇᴠᴇʟᴏᴩᴇʀ: <a href=https://t.me/MichaelAnjoottiTG><b>🇮🇳 𝐌𝐢𝐜𝐡𝐚𝐞𝐥 𝐀𝐧𝐣𝐨𝐨𝐭𝐭𝐢 𝐓𝐆</a>
-✯ ꜱᴜᴩᴩᴏʀᴛᴇʀ: <a href=https://t.me/humen_tg><b>Hᴜᴍᴇɴ ⛔</a>
-✯ ʟɪʙʀᴀʀy: ᴩyʀᴏɢʀᴀᴍ
-✯ ʟᴀɴɢᴜᴀɢᴇ: ᴩyᴛʜᴏɴ 𝟹
-✯ ᴅᴀᴛᴀʙᴀꜱᴇ: ᴍᴏɴɢᴏ ᴅʙ
-✯ ꜱᴇʀᴠᴇʀ: ʜᴇʀᴏᴋᴜ
+ ᴅᴇᴠᴇʟᴏᴩᴇʀ: <a href=https://t.me/MichaelAnjoottiTG><b>🇮🇳 𝐌𝐢𝐜𝐡𝐚𝐞𝐥 𝐀𝐧𝐣𝐨𝐨𝐭𝐭𝐢 𝐓𝐆</a>
+ ꜱᴜᴩᴩᴏʀᴛᴇʀ: <a href=https://t.me/humen_tg><b>Hᴜᴍᴇɴ ⛔</a>
+ ʟɪʙʀᴀʀy: ᴩyʀᴏɢʀᴀᴍ
+ ʟᴀɴɢᴜᴀɢᴇ: ᴩyᴛʜᴏɴ 𝟹
+ ᴅᴀᴛᴀʙᴀꜱᴇ: ᴍᴏɴɢᴏ ᴅʙ
+ ꜱᴇʀᴠᴇʀ: ʜᴇʀᴏᴋᴜ
 
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 """
+ ʙᴜɪʟᴅ ꜱᴛᴀᴛᴜꜱ: v1.0.1 """
     SOURCE_TXT = """<b>NOTE:</b>
 Source Not Available 
 Join And Support Our Main Channel For Source In Future
