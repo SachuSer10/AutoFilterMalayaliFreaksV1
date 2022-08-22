@@ -3,15 +3,15 @@ class script(object):
  ᴍy ɴᴀᴍᴇ ɪꜱ <a href=https://t.me/{}>{}</a>, ɪ ᴄᴀɴ ᴩʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇꜱ , ᴊᴜꜱᴛ ᴀᴅᴅ  ᴍᴇ ᴛᴏ yᴏᴜʀ  ɢʀᴏᴜᴩ ᴀɴᴅ ꜱᴇᴇ ᴍy ᴍᴀɢɪᴄ😇"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁: <a href=https://t.me/MichaelAnjoottiTG><b>🇮🇳 𝐌𝐢𝐜𝐡𝐚𝐞𝐥 𝐀𝐧𝐣𝐨𝐨𝐭𝐭𝐢 𝐓𝐆</a>
-✯ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃𝙴𝚁: <a href=https://t.me/humen_tg><b>Hᴜᴍᴇɴ ⛔</a>
-✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
-✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
-✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
-✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
+    ABOUT_TXT = """✯ ᴍy ɴᴀᴍᴇ: {}
+✯ ᴅᴇᴠᴇʟᴏᴩᴇʀ: <a href=https://t.me/MichaelAnjoottiTG><b>🇮🇳 𝐌𝐢𝐜𝐡𝐚𝐞𝐥 𝐀𝐧𝐣𝐨𝐨𝐭𝐭𝐢 𝐓𝐆</a>
+✯ ꜱᴜᴩᴩᴏʀᴛᴇʀ: <a href=https://t.me/humen_tg><b>Hᴜᴍᴇɴ ⛔</a>
+✯ ʟɪʙʀᴀʀy: ᴩyʀᴏɢʀᴀᴍ
+✯ ʟᴀɴɢᴜᴀɢᴇ: ᴩyᴛʜᴏɴ 𝟹
+✯ ᴅᴀᴛᴀʙᴀꜱᴇ: ᴍᴏɴɢᴏ ᴅʙ
+✯ ꜱᴇʀᴠᴇʀ: ʜᴇʀᴏᴋᴜ
 
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ """
+✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 """
     SOURCE_TXT = """<b>NOTE:</b>
 Source Not Available 
 Join And Support Our Main Channel For Source In Future
