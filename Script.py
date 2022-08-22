@@ -106,7 +106,7 @@ This module only works for my admins
 • /channel - <code>to get list of total connected channels</code>
 • /broadcast - <code>to broadcast a message to all users</code>"""
     STATUS_TXT = """ᴛᴏᴛᴀʟ ꜰɪʟᴇꜱ ➪ : <code>{}</code>
-ᴛᴏᴛᴀʟ ꜰɪʟᴇꜱ ➪ : <code>{}</code>
+ᴛᴏᴛᴀʟ ᴜꜱᴇʀꜱ ➪ : <code>{}</code>
 ᴛᴏᴛᴀʟ ᴄʜᴀᴛꜱ ➪ : <code>{}</code>
 ᴜꜱᴇᴅ ꜱᴛᴏʀᴀɢᴇ ➪: <code>{}</code> 𝙼𝚒𝙱
 ꜰʀᴇᴇ ꜱᴛᴏʀᴀɢᴇ ➪: <code>{}</code> 𝙼𝚒𝙱"""
