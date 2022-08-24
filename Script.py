@@ -111,8 +111,8 @@ This module only works for my admins
 ᴛᴏᴛᴀʟ ᴄʜᴀᴛꜱ ➪ : <code>{}</code>
 ᴜꜱᴇᴅ ꜱᴛᴏʀᴀɢᴇ ➪: <code>{}</code> 𝙼𝚒𝙱
 ꜰʀᴇᴇ ꜱᴛᴏʀᴀɢᴇ ➪: <code>{}</code> 𝙼𝚒𝙱"""
-ᴄᴩᴜ ᴜꜱᴀɢᴇ ➪ 98.88 MB
-ʀᴀᴍ ᴜꜱᴀɢᴇ ➪ 118.44 MB
+
+
     LOG_TEXT_G = """#NewGroup
 Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
