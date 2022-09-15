@@ -413,7 +413,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('😊 About', callback_data='about')
         ]]
         reply1 = await query.message.reply_text(
-            text="â–¢â–¢â–¢"
+            text="⦿⦿⦿⦿"
         )
         await asyncio.sleep(0.5)
         reply2 = await reply1.edit_text(
