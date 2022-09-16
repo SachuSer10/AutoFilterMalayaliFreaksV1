@@ -10,12 +10,12 @@ class script(object):
  ʟᴀɴɢᴜᴀɢᴇ: ᴩyᴛʜᴏɴ 𝟹
  ᴅᴀᴛᴀʙᴀꜱᴇ: ᴍᴏɴɢᴏ ᴅʙ
  ꜱᴇʀᴠᴇʀ: ʜᴇʀᴏᴋᴜ
- ʙᴜɪʟᴅ ꜱᴛᴀᴛᴜꜱ: v1.0.1 """
+ ʙᴜɪʟᴅ ꜱᴛᴀᴛᴜꜱ: v2.0.1 """
  
 
     SOURCE_TXT = """<b>NOTE:</b>
-Source Not Available 
-Join And Support Our Main Channel For Source In Future
+<b>Source Not Available 
+Join And Support Our Main Channel For Source In Future</b>
 
 
 
