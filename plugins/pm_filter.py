@@ -410,7 +410,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton(' My Uᴩᴅᴀᴛᴇꜱ', url='https://t.me/MovieFlix_TG')
         ], [
             InlineKeyboardButton(' Hᴇʟᴩ', callback_data='help'),
-            InlineKeyboardButton(' Aʙᴏᴜᴛ', callback_data='about')
+            InlineKeyboardButton(' Aʙᴏᴜᴛ Mᴇʜ', callback_data='about')
         ]]
         reply1 = await query.message.reply_text(
             text="⍟"
@@ -437,14 +437,14 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer('Piracy Is Crime')
     elif query.data == "help":
         buttons = [[
-            InlineKeyboardButton('ᴍᴀɴᴜᴀʟ ꜰɪʟᴛᴇʀ', callback_data='manuelfilter'),
-            InlineKeyboardButton('ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ', callback_data='autofilter')
+            InlineKeyboardButton('Mᴀɴᴜᴀʟ Fɪʟᴛᴇʀ', callback_data='manuelfilter'),
+            InlineKeyboardButton('Aᴜᴛᴏ Fɪʟᴛᴇʀ', callback_data='autofilter')
         ], [
-            InlineKeyboardButton('ᴄᴏɴɴᴇᴄᴛɪᴏɴ', callback_data='coct'),
-            InlineKeyboardButton('ᴇxᴛʀᴀ ᴍᴏᴅꜱ', callback_data='extra')
+            InlineKeyboardButton('Cᴏɴɴᴇᴄᴛɪᴏɴ', callback_data='coct'),
+            InlineKeyboardButton('Exᴛʀᴀ Mᴏᴅꜱ', callback_data='extra')
         ], [
-            InlineKeyboardButton('🏠 ʜᴏᴍᴇ', callback_data='start'),
-            InlineKeyboardButton('🔮 ꜱᴛᴀᴛᴜꜱ', callback_data='stats')
+            InlineKeyboardButton(' Hᴏᴍᴇ', callback_data='start'),
+            InlineKeyboardButton(' Sᴛᴀᴛᴜꜱ', callback_data='stats')
         ]]
         reply1 = await query.message.reply_text(
             text="⍟"
@@ -470,11 +470,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons = [[
-            InlineKeyboardButton('🤖 ᴍy ᴜᴩᴅᴀᴛᴇꜱ', url='https://t.me/MovieFlix_TG'),
-            InlineKeyboardButton('ꜱᴏᴜʀᴄᴇ', callback_data='source')
+            InlineKeyboardButton(' My Uᴩᴅᴀᴛᴇꜱ', url='https://t.me/MovieFlix_TG'),
+            InlineKeyboardButton('Sᴏᴜʀᴄᴇ', callback_data='source')
         ], [
-            InlineKeyboardButton('🏠 ʜᴏᴍᴇ', callback_data='start'),
-            InlineKeyboardButton('🔐 ᴄʟᴏꜱᴇ', callback_data='close_data')
+            InlineKeyboardButton(' Hᴏᴍᴇ', callback_data='start'),
+            InlineKeyboardButton(' Cʟᴏꜱᴇ', callback_data='close_data')
         ]]
         reply1 = await query.message.reply_text(
             text="⍟"
