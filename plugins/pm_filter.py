@@ -406,11 +406,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ yᴏᴜʀ ɢʀᴏᴜᴩ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
-            InlineKeyboardButton('🔍 ꜱᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🤖 ᴍy ᴜᴩᴅᴀᴛᴇꜱ', url='https://t.me/MovieFlix_TG')
+            InlineKeyboardButton('🔍 Sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
+            InlineKeyboardButton('🤖 ᴍy Uᴩᴅᴀᴛᴇꜱ', url='https://t.me/MovieFlix_TG')
         ], [
-            InlineKeyboardButton('ℹ️ ʜᴇʟᴩ', callback_data='help'),
-            InlineKeyboardButton('😊 ᴀʙᴏᴜᴛ', callback_data='about')
+            InlineKeyboardButton('ℹ️ Hᴇʟᴩ', callback_data='help'),
+            InlineKeyboardButton('😊 Aʙᴏᴜᴛ', callback_data='about')
         ]]
         reply1 = await query.message.reply_text(
             text="⍟"
