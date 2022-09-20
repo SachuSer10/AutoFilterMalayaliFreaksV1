@@ -407,10 +407,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ yᴏᴜʀ ɢʀᴏᴜᴩ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
             InlineKeyboardButton(' Sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
-            InlineKeyboardButton(' My Uᴩᴅᴀᴛᴇꜱ', url='https://t.me/MovieFlix_TG')
+            InlineKeyboardButton(' Uᴩᴅᴀᴛᴇꜱ', url='https://t.me/MovieFlix_TG')
         ], [
             InlineKeyboardButton(' Hᴇʟᴩ', callback_data='help'),
-            InlineKeyboardButton(' Aʙᴏᴜᴛ Mᴇʜ', callback_data='about')
+            InlineKeyboardButton(' Aʙᴏᴜᴛ', callback_data='about')
         ]]
         reply1 = await query.message.reply_text(
             text="⍟"
@@ -470,7 +470,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons = [[
-            InlineKeyboardButton(' My Uᴩᴅᴀᴛᴇꜱ', url='https://t.me/MovieFlix_TG'),
+            InlineKeyboardButton('Uᴩᴅᴀᴛᴇꜱ', url='https://t.me/MovieFlix_TG'),
             InlineKeyboardButton('Sᴏᴜʀᴄᴇ', callback_data='source')
         ], [
             InlineKeyboardButton(' Hᴏᴍᴇ', callback_data='start'),
