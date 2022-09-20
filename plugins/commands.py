@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [
             [
-                InlineKeyboardButton(' My Uᴩᴅᴀᴛᴇꜱ', url='https://t.me/MovieFlix_TG')
+                InlineKeyboardButton(' Uᴩᴅᴀᴛᴇꜱ', url='https://t.me/MovieFlix_TG')
             ],
             [
                 InlineKeyboardButton(' Hᴇʟᴩ', url=f"https://t.me/{temp.U_NAME}?start=help"),
@@ -45,10 +45,10 @@ async def start(client, message):
             InlineKeyboardButton('➕ 😍ᴀᴅᴅ ᴍᴇ ᴛᴏ yᴏᴜʀ ɢʀᴏᴜᴩ😍 ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton(' Sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
-            InlineKeyboardButton(' My ᴜᴩᴅᴀᴛᴇꜱ', url='https://t.me/MovieFlix_TG')
+            InlineKeyboardButton(' Uᴩᴅᴀᴛᴇꜱ', url='https://t.me/MovieFlix_TG')
             ],[
             InlineKeyboardButton(' Hᴇʟᴩ', callback_data='help'),
-            InlineKeyboardButton(' Aʙᴏᴜᴛ Mᴇʜ', callback_data='about')
+            InlineKeyboardButton(' Aʙᴏᴜᴛ', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -93,10 +93,10 @@ async def start(client, message):
             InlineKeyboardButton(' Sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
                               
                                
-            InlineKeyboardButton(' My Uᴩᴅᴀᴛᴇꜱ', url='https://t.me/MichaelAnjoottiTG')
+            InlineKeyboardButton(' Uᴩᴅᴀᴛᴇꜱ', url='https://t.me/MichaelAnjoottiTG')
             ],[
             InlineKeyboardButton(' Hᴇʟᴩ', callback_data='help'),
-            InlineKeyboardButton(' Aʙᴏᴜᴛ Mᴇʜ', callback_data='about')
+            InlineKeyboardButton(' Aʙᴏᴜᴛ', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
