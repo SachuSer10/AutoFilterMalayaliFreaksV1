@@ -35,7 +35,7 @@ Join And Support Our Main Channel For Source In Future</b>
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. Beevi Pathu should have admin privillage.
+1. Bee Pathu should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
