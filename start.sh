@@ -4,7 +4,7 @@ then
   git clone https://github.com/SachuSer10/AutoFilterMalayaliFreaksV1 /AutoFilterMalayaliFreaksV1
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
-  git clone $UPSTREAM_REPO /MFAutoGilterv3 
+  git clone $UPSTREAM_REPO /AutoFilterMalayaliFreaksV1 
 fi
 cd /AutoFilterMalayaliFreaksV1 
 pip3 install -U -r requirements.txt
