@@ -4,9 +4,9 @@ then
   git clone https://github.com/SachuSer10/AutoFilterMalayaliFreaksV1 /AutoFilterMalayaliFreaksV1
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
-  git clone $UPSTREAM_REPO /AutoFilterMalayaliFreaksV1 
+  git clone $UPSTREAM_REPO /MFAutoGilterv3 
 fi
-cd /AutoFilterMalayaliFreaksV1
+cd /AutoFilterMalayaliFreaksV1 
 pip3 install -U -r requirements.txt
 echo "Starting Bot...."
 python3 bot.py
